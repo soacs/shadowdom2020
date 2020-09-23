@@ -1,0 +1,14 @@
+h1 {
+  color: red;
+  font-family: Arial;
+  font-size: larger;
+  background: pink ;
+}
+
+div {
+  background: hotpink;
+  text-align: center;
+  padding-top: 30px;
+  bottom-padding: 30px;
+  padding: 20px;
+}
